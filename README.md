@@ -2,6 +2,9 @@
 
 Local observability stack equivalent to Grafana Cloud Free tier.
 
+> [!WARNING]
+> Please use [docker-otel-lgtm](https://github.com/grafana/docker-otel-lgtm) instead.
+
 ## Architecture
 
 ### Component Overview
